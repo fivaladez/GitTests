@@ -1,6 +1,7 @@
 //Exercise of classes
 #include <iostream>
 using namespace std;
+/*Nuevo comentario para branch 1*/
 
 class Polygon {
 	protected:

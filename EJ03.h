@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-
+/*Comentario para B1*/
 class numbers {
     public:
         static float n;
