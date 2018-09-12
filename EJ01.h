@@ -1,7 +1,7 @@
 //Exercise of classes
 #include <iostream>
 using namespace std;
-
+/*Comentario para B2*/
 class Polygon {
 	protected:
 		int width, height;
