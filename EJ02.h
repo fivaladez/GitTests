@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class humanBeing1 {
+class humanBeing12 {
    protected:
     int weight;
     float height;

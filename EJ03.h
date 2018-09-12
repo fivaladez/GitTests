@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+/*Comentario para B2*/
 using namespace std;
 /*Comentario para B1*/
 class numbers {
